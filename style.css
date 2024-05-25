@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+}
+
+.main {
+  background-color: #fff;
+  color: black;
+}
+.main .showCurrentTimeZone {
+  border: 2px solid red;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.main .showCurrentTimeZone h1 {
+  padding: 10px 0;
+}
